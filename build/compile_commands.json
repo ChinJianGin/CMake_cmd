@@ -1,0 +1,12 @@
+[
+{
+  "directory": "E:/martin/Code/MakefileTest-cmd/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE -Dmylib_EXPORTS  -g -o CMakeFiles\\mylib.dir\\src\\main.cpp.obj -c E:\\martin\\Code\\MakefileTest-cmd\\src\\main.cpp",
+  "file": "E:/martin/Code/MakefileTest-cmd/src/main.cpp"
+},
+{
+  "directory": "E:/martin/Code/MakefileTest-cmd/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\myexe.dir\\src\\main.cpp.obj -c E:\\martin\\Code\\MakefileTest-cmd\\src\\main.cpp",
+  "file": "E:/martin/Code/MakefileTest-cmd/src/main.cpp"
+}
+]
